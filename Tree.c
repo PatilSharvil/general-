@@ -1,3 +1,8 @@
+//Name : Sharvil Sunil Patil
+//Roll No : 2001
+//Class : SY CSE A
+//Batch : S1
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -115,3 +120,117 @@ int main()
 
     return 0;
 }
+
+//---------------OUTPUT---------------
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1
+// Enter the data: 5
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1
+// Enter the data: 4
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1
+// Enter the data: 6
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 2
+// Inorder Traversal: 4 5 6 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 3
+// Preorder Traversal: 5 4 6 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 4
+// Postorder Traversal: 4 6 5 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1 
+// Enter the data: 3
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1
+// Enter the data: 2
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1
+// Enter the data: 7 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 1 
+// Enter the data: 8
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 2
+// Inorder Traversal: 2 3 4 5 6 7 8 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 3
+// Preorder Traversal: 5 4 3 2 6 7 8 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 4
+// Postorder Traversal: 2 3 4 8 7 6 5 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Exit
+// Enter the choice: 5
+// Exiting program.
