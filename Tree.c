@@ -149,3 +149,107 @@ int main()
     return 0;
 }
 
+//---------OUTPUT---------
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 1
+// Enter the data: 5
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 1
+// Enter the data: 4
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 1
+// Enter the data: 6
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 2
+// Inorder Traversal: 4 5 6 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 3
+// Preorder Traversal: 5 4 6 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 4
+// Postorder Traversal: 4 6 5 
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 5
+// Enter the key : 5
+// Search Successful!
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 5
+// Enter the key : 4
+// Search Successful!
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 5
+// Enter the key : 6
+// Search Successful!
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 5
+// Enter the key : 1
+// Search Unsuccessful!
+// -----------MENU-----------
+// 1. Create Node in Tree
+// 2. Inorder Traversal
+// 3. Preorder Traversal
+// 4. Postorder Traversal
+// 5. Search Element
+// 6.Exit
+// Enter the choice: 6
+// Exiting program.
