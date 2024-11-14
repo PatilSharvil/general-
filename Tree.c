@@ -72,10 +72,29 @@ void Postorder(Node *node)
     printf("%d ", node->data);
 }
 
+void search(Node* node,int key)
+{
+    if(node == NULL)
+    prinft("Search Unsuccessful!\n");
+
+    if(key == node->data)
+    {
+        printf("Search Successful!\n");
+    }
+    else if(key < node->data)
+    {
+        search(node->left,key);
+    }
+    else
+    {
+        search(node->right,key);
+    }
+}
+
 int main()
 {
     Node *root = NULL;
-    int choice, data;
+    int choice, data,key;
 
     while (1)
     {
@@ -84,7 +103,8 @@ int main()
         printf("2. Inorder Traversal\n");
         printf("3. Preorder Traversal\n");
         printf("4. Postorder Traversal\n");
-        printf("5. Exit\n");
+        printf("5. Search Element\n");
+        printf("6.Exit\n");
         printf("Enter the choice: ");
         scanf("%d", &choice);
 
@@ -111,8 +131,13 @@ int main()
             printf("\n");
             break;
         case 5:
+            printf("Enter the key : ");
+            scanf("%d",&key);
+            search(root,key);
+            break;
+        case 6 : 
             printf("Exiting program.\n");
-            return 0;
+            return 0;    
         default:
             printf("Invalid choice, please try again.\n");
         }
