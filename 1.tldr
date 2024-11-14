@@ -50,20 +50,16 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1373.7853258388145,
-			"y": 419.0075609838203,
-			"lastActivityTimestamp": 1731489710582,
+			"x": 240.67399611111546,
+			"y": 531.3949618943122,
+			"lastActivityTimestamp": 1731491245149,
 			"meta": {}
 		},
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "xl",
-				"tldraw:dash": "solid",
-				"tldraw:geo": "rectangle",
-				"tldraw:fill": "pattern",
-				"tldraw:color": "black"
+				"tldraw:geo": "rectangle"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -78,8 +74,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1232,
-				"h": 606.4000244140625
+				"w": 932,
+				"h": 480.8000183105469
 			},
 			"insets": [
 				false,
