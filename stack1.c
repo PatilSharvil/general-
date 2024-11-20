@@ -17,7 +17,7 @@ void push(char c)
     }
     else
     {
-        stack[++top] = c; // Increment top before assigning
+        stack[++top] = c; 
     }
 }
 
