@@ -50,6 +50,7 @@ void decode(char *str, char *result) {
 
 
 int main() {
+
     char str[MAX] = "IIDDIDID";
     char result[MAX];
     decode(str,result);
